@@ -2,23 +2,23 @@
 
 ## Company blurb
 
-1Password is a password manager that keeps you safe online. It stores all your personal information — passwords, credit cards, and more. We're always looking for new people as our team grows, and it's growing fast!
+We make a password manager for Mac, Windows, Android, and iOS called 1Password. It also has a web service and a standalone browser extension, both built in Golang.
 
 ## Company size
 
-200+ (as of January 2020)
+Just over 100 (May 2018).
 
 ## Remote status
 
-Almost all of us are remote. We also have an office in downtown Toronto that everone is welcome to use when they're in the city, but even Toronto locals pop in just a few days a week.
+Almost all of us are remote. We do have an office in downtown Toronto that we are all welcome to use when we are in the city, but even the Toronto locals spend two days in the office on average.
 
 ## Region
 
-Worldwide. Right now we have folks distributed throughout North America and Europe. We have one brave soul in New Zealand and others in the SEA timezone. More are welcome!
+Worldwide. Right now we have folks distributed throughout North America and Europe. We have one brave soul from Australia, and another from New Zealand. More are welcome.
 
 ## Company technologies
 
-Go, Rust, React, TypeScript, Swift, Kubernetes, and many others depending on the team.
+Go, React, TypeScript, Swift, and of course Slack.
 
 ## Office locations
 
@@ -27,3 +27,5 @@ Toronto, Ontario
 ## How to apply
 
 Check our jobs page: https://1password.com/jobs/
+
+If your position isn't listed, create it by emailing jobs@agilebits.com and starting a conversation.

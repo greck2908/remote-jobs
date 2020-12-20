@@ -1,28 +1,11 @@
 # Keen IO
 
 ## Company blurb
-There’s no need to rebuild a data pipeline, Keen already built one for you. Take advantage of our fully-managed, multi-tenant data architecture and get back to building awesome apps.
 
-Keen is the customer-facing metrics platform that makes shipping custom end-user analytics easy and seamless.
+⚠ We don't have much information about this company yet!
 
-## Company size
-51-200 employees
+If you know something we don't, help us fill it in!  Here's how:
 
-## Region
-USA
-
-## Company technologies
-Analytics, Big Data, Data Science, Developer Tools, APIs, and Data Visualization
-
-## Office locations
-San Antonio, Texas
-
-## How to apply
-Job listings:
-https://scaleworks.com/careers/
-
-Contact:
-https://www.linkedin.com/company/keen-io/
-
-
-https://keen.io/
+- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
+- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
+- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/keen-io.md)

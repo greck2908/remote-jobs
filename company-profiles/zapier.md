@@ -8,7 +8,7 @@ We believe that there are jobs that a computer is best at doing and that there a
 
 ## Company size
 
-300+ team members listed on the [about page](https://zapier.com/about/)
+90+ team members listed on the [about page](https://zapier.com/about/)
 
 ## Remote status
 

@@ -47,4 +47,4 @@ console.log(
 	( errorCount === 1 ? '' : 's' )
 );
 
-process.exitCode = ( errorCount > 0 ? 3 : 0 );
+process.exitCode = Math.min( errorCount, 99 );

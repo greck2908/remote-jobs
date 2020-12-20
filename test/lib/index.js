@@ -54,7 +54,9 @@ exports.runValidationScriptWithFixtures = ( dirName, env = {} ) => {
 	const output = result.stdout.toString().trim().split( '\n' );
 	const exitCode = result.status;
 
-	let errorSummary = output[ output.length - 1 ];
+	expect( output[ output.length - 1 ] ).to.equal(
+		exitCode + ' problem' + ( exitCode === 1 ? '' : 's' ) + ' detected'
+	);
 	if ( output.length >= 2 ) {
 		expect( output[ output.length - 2 ] ).to.equal( '' );
 		output.splice( -2 );
@@ -68,5 +70,5 @@ exports.runValidationScriptWithFixtures = ( dirName, env = {} ) => {
 		} );
 	}
 
-	return { output, errorSummary, exitCode };
+	return { output, exitCode };
 };
